@@ -1,0 +1,19 @@
+{
+  "name": "standard-proposal",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vprasanth/standard-proposal.git"
+  },
+  "author": "Prasanth Vaaheeswaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vprasanth/standard-proposal/issues"
+  },
+  "homepage": "https://github.com/vprasanth/standard-proposal#readme"
+}
